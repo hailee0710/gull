@@ -1,0 +1,2 @@
+config SHIELD_gull
+    def_bool $(shields_list_contains,gull)
